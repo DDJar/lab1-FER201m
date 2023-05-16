@@ -28,3 +28,15 @@ address {
     margin: 0px auto;
     padding: 20px 0px 20px 0px;
 }
+#reserveTable{
+    margin: 10px 0px;
+  }
+  
+  .card-header{
+    background-color: #dfb920;
+    color: white;
+    font-size: xx-large;
+  }
+  .card-body{
+    margin: 15px 0px;
+  }
